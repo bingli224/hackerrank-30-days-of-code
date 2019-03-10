@@ -19,6 +19,8 @@ class Solution:
 
     def levelOrder(self,root):
         #Write your code here
+        ## By BingLi224
+        ## 13:13 THA 10/03/2019
         r = root;
         child = [ ];
         if r is not None :
